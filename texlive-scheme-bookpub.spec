@@ -1,6 +1,6 @@
 Name:		texlive-scheme-bookpub
 Version:	63547
-Release:	1
+Release:	2
 Summary:	book publishing scheme (core LaTeX and add-ons)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scheme-bookpub
