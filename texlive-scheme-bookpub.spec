@@ -3,7 +3,7 @@ Version:	63547
 Release:	2
 Summary:	book publishing scheme (core LaTeX and add-ons)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scheme-bookpub
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scheme-bookpub
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scheme-bookpub.r%{version}.tar.xz
 BuildArch:	noarch
